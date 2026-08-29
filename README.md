@@ -1,6 +1,9 @@
 # Istoria Jocurilor Video - Proiect Web (Atestat)
 
-Website educational dezvoltat in 2023 ca proiect de atestat la Colegiul Național "Mihai Eminescu" Buzău.
+
+* Website educational dezvoltat in 2023 ca proiect de atestat la Colegiul Național "Mihai Eminescu" Buzău.
+* Acesta poate fi vazut [aici](https://atestat-baideanu.netlify.app), fara a fi nevoie de descarcarea acestuia. 
+
 
 ## Tehnologii utilizate
 * HTML (structura)
