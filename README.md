@@ -2,7 +2,8 @@
 
 
 * Website educational dezvoltat in 2023 ca proiect de atestat la Colegiul Național "Mihai Eminescu" Buzău.
-* Acesta poate fi vazut [aici](https://atestat-baideanu.netlify.app), fara a fi nevoie de descarcarea acestuia. 
+* Acesta poate fi vazut [aici](https://atestat-baideanu.netlify.app), fara a fi nevoie de descarcarea acestuia.
+* In fisierele atasate, se regaseste un Doc cu prezentarea detaliata a proiectului
 
 
 ## Tehnologii utilizate
